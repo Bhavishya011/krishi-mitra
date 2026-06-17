@@ -4,3 +4,8 @@ python-dotenv
 openai
 chromadb
 sentence-transformers
+edge-tts
+faster-whisper
+torchvision
+transformers
+Pillow
