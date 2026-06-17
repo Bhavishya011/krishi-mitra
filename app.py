@@ -878,6 +878,10 @@ def create_app() -> gr.Blocks:
 
     with gr.Blocks(
         title="Krishi Mitra -- AI Agricultural Consultant",
+        css=_css_content,
+        js=_js_init,
+        head=_js_head,
+        theme=gr.themes.Base(),
     ) as app:
 
         # ── State ──
@@ -1197,10 +1201,5 @@ if __name__ == "__main__":
         server_name="0.0.0.0",
         server_port=7860,
         share=False,
-        footer_links=[],
-        css=_css_content,
-        js=_js_init,
-        head=_js_head,
-        theme=gr.themes.Base(),
     )
 
