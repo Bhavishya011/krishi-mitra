@@ -958,6 +958,7 @@ def create_app() -> gr.Blocks:
                 show_copy_button=True,
                 layout="bubble",
                 avatar_images=(None, AVATAR_URL),
+                type="messages",
             )
 
             # ── Suggestion Chips (shown below greeting) ──
