@@ -962,6 +962,7 @@ def create_app() -> gr.Blocks:
                 height=480,
                 show_label=False,
                 layout="bubble",
+                type="messages",
                 avatar_images=(None, AVATAR_URL),
             )
 
