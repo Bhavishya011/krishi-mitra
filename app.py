@@ -944,8 +944,9 @@ def create_app() -> gr.Blocks:
 
             # ── Top Bar ──
             with gr.Row(elem_id="app-topbar"):
+                app_back_btn = gr.Button("← Home", elem_classes=["back-btn"], size="sm")
                 gr.HTML("""
-                    <div class="topbar-left">
+                    <div class="topbar-left" style="margin-left:auto;">
                         <span class="topbar-logo-badge">KM</span>
                         <span class="topbar-title">Krishi Mitra</span>
                     </div>
@@ -1081,6 +1082,11 @@ def create_app() -> gr.Blocks:
 
         # Explore view buttons
         explore_back_btn.click(
+            fn=on_back_to_hero,
+            inputs=[],
+            outputs=[hero_section, app_section, explore_section], api_name=False,
+        )
+        app_back_btn.click(
             fn=on_back_to_hero,
             inputs=[],
             outputs=[hero_section, app_section, explore_section], api_name=False,
