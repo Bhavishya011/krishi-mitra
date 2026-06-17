@@ -13,6 +13,8 @@
 
 ## 🌾 What is Krishi Mitra?
 
+![Complete App Preview](assets/complete_app.png)
+
 Millions of Indian farmers make daily decisions about their crops with little access to expert advice. Local agricultural extension workers are overburdened, and most AI tools are in English with no offline-friendly voice support.
 
 **Krishi Mitra solves this.**
@@ -36,6 +38,8 @@ No chemical recommendations. No English-only interface. No complicated UI.
 ## ✨ Key Features
 
 ### 🔍 1. Crop Disease Diagnosis
+
+![Disease Detection Interface](assets/disease_detection.png)
 Describe your crop's symptoms in Hinglish — or upload a photo of the leaf — and get an instant diagnosis with organic treatment steps.
 
 - Powered by MobileNetV2 fine-tuned on the PlantVillage dataset (54,306 leaf images, 38 disease classes)
@@ -44,6 +48,8 @@ Describe your crop's symptoms in Hinglish — or upload a photo of the leaf — 
 - Recommends only organic remedies: neem oil, jeevamrit, Trichoderma, cow urine, etc.
 
 ### 🌤️ 2. Weather-Linked Crop Planning
+
+![Weather Services](assets/weather_services.png)
 Tell Krishi Mitra your location (city name or PIN code) and it fetches a live 7-day forecast and recommends suitable crops for this week's weather and current season.
 
 - Uses Open-Meteo API
@@ -161,6 +167,8 @@ Open your browser at: `http://localhost:7860`
 ---
 
 ## 📚 Knowledge Base
+
+![RAG System Architecture](assets/rag.png)
 
 The RAG system is grounded in curated, sourced agricultural knowledge:
 
