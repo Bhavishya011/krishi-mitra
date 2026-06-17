@@ -103,6 +103,12 @@ def _process_message(
     if not user_text or not user_text.strip():
         return chat_history, session_state, None, weather_card_md
 
+    if session_state is None:
+        session_state = _new_session_state()
+
+    if chat_history is None:
+        chat_history = []
+
     # Add user message to conversation history
     session_state["conversation_history"].append({
         "role": "user",
@@ -461,8 +467,8 @@ def on_explore_location_submit(location_text: str):
 
 def on_suggestion_click(
     suggestion: str,
-    chat_history: list,
-    session_state: dict,
+    chat_history,
+    session_state,
     weather_card_md: str,
 ):
     """Handle suggestion chip click — send as text message."""
@@ -885,7 +891,7 @@ def create_app() -> gr.Blocks:
     ) as app:
 
         # ── State ──
-        session_state = gr.State(value=_new_session_state)
+        session_state = gr.State()
         weather_card_state = gr.State(value="")
         pending_image = gr.State(value=None)
 
