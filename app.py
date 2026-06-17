@@ -89,8 +89,8 @@ def _new_session_state() -> dict:
 
 def _process_message(
     user_text: str,
-    chat_history: list,
-    session_state: dict,
+    chat_history,
+    session_state,
     weather_card_md: str,
 ) -> tuple:
     """
@@ -242,8 +242,8 @@ def on_back_to_hero():
 
 def on_text_submit(
     user_text: str,
-    chat_history: list,
-    session_state: dict,
+    chat_history,
+    session_state,
     weather_card_md: str,
     pending_image,
 ):
@@ -352,8 +352,8 @@ def on_text_submit(
 
 def on_audio_record(
     audio_input,
-    chat_history: list,
-    session_state: dict,
+    chat_history,
+    session_state,
     weather_card_md: str,
 ):
     """Handle voice input — transcribe then process."""
