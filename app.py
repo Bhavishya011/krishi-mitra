@@ -247,10 +247,10 @@ def on_back_to_hero():
 
 
 def on_text_submit(
-    user_text: str,
+    user_text,
     chat_history,
     session_state,
-    weather_card_md: str,
+    weather_card_md,
     pending_image,
 ):
     """Handle text input submission, optionally with a pending image."""
@@ -360,7 +360,7 @@ def on_audio_record(
     audio_input,
     chat_history,
     session_state,
-    weather_card_md: str,
+    weather_card_md,
 ):
     """Handle voice input — transcribe then process."""
     if audio_input is None:
@@ -400,7 +400,7 @@ def on_clear_image():
 
 # ── Suggestion Chip Handler ─────────────────────────────────────────
 
-def on_explore_location_submit(location_text: str):
+def on_explore_location_submit(location_text):
     """Handle location submission in Explore Features view."""
     if not location_text or not location_text.strip():
         return gr.update(), gr.update(), gr.update()
@@ -466,10 +466,10 @@ def on_explore_location_submit(location_text: str):
     )
 
 def on_suggestion_click(
-    suggestion: str,
+    suggestion,
     chat_history,
     session_state,
-    weather_card_md: str,
+    weather_card_md,
 ):
     """Handle suggestion chip click — send as text message."""
     return on_text_submit(suggestion, chat_history, session_state, weather_card_md, None)
@@ -961,10 +961,8 @@ def create_app() -> gr.Blocks:
                 elem_id="chatbot",
                 height=480,
                 show_label=False,
-                show_copy_button=True,
                 layout="bubble",
                 avatar_images=(None, AVATAR_URL),
-                type="messages",
             )
 
             # ── Suggestion Chips (shown below greeting) ──
@@ -1072,52 +1070,52 @@ def create_app() -> gr.Blocks:
         hero_start_btn.click(
             fn=on_start_click,
             inputs=[],
-            outputs=_hero_outputs,
+            outputs=_hero_outputs, api_name=False,
         )
         hero_explore_btn.click(
             fn=on_explore_click,
             inputs=[],
-            outputs=[hero_section, app_section, explore_section],
+            outputs=[hero_section, app_section, explore_section], api_name=False,
         )
 
         # Explore view buttons
         explore_back_btn.click(
             fn=on_back_to_hero,
             inputs=[],
-            outputs=[hero_section, app_section, explore_section],
+            outputs=[hero_section, app_section, explore_section], api_name=False,
         )
         explore_start_chat_btn.click(
             fn=on_start_click,
             inputs=[],
-            outputs=_hero_outputs,
+            outputs=_hero_outputs, api_name=False,
         )
         explore_location_submit.click(
             fn=on_explore_location_submit,
             inputs=[explore_location_input],
-            outputs=[explore_weather_card, explore_recommendations_card, explore_start_chat_btn],
+            outputs=[explore_weather_card, explore_recommendations_card, explore_start_chat_btn], api_name=False,
         )
         explore_location_input.submit(
             fn=on_explore_location_submit,
             inputs=[explore_location_input],
-            outputs=[explore_weather_card, explore_recommendations_card, explore_start_chat_btn],
+            outputs=[explore_weather_card, explore_recommendations_card, explore_start_chat_btn], api_name=False,
         )
 
         # Image upload button → preview
         image_upload_btn.upload(
             fn=on_image_select,
             inputs=[image_upload_btn],
-            outputs=[image_preview_row, pending_image],
+            outputs=[image_preview_row, pending_image], api_name=False,
         ).then(
             fn=lambda img: gr.update(value=img),
             inputs=[pending_image],
-            outputs=[image_preview],
+            outputs=[image_preview], api_name=False,
         )
 
         # Clear image preview
         clear_image_btn.click(
             fn=on_clear_image,
             inputs=[],
-            outputs=[image_preview_row, pending_image],
+            outputs=[image_preview_row, pending_image], api_name=False,
         )
 
         # Text submit (button click or Enter key)
@@ -1130,32 +1128,32 @@ def create_app() -> gr.Blocks:
         send_btn.click(
             fn=on_text_submit,
             inputs=_text_inputs,
-            outputs=_text_outputs,
+            outputs=_text_outputs, api_name=False,
         ).then(
             fn=lambda wc: wc if wc else "",
             inputs=[weather_card_state],
-            outputs=[weather_card],
+            outputs=[weather_card], api_name=False,
         )
 
         text_input.submit(
             fn=on_text_submit,
             inputs=_text_inputs,
-            outputs=_text_outputs,
+            outputs=_text_outputs, api_name=False,
         ).then(
             fn=lambda wc: wc if wc else "",
             inputs=[weather_card_state],
-            outputs=[weather_card],
+            outputs=[weather_card], api_name=False,
         )
 
         # Voice input — triggers when recording stops
         audio_input.stop_recording(
             fn=on_audio_record,
             inputs=[audio_input, chatbot, session_state, weather_card_state],
-            outputs=[chatbot, session_state, audio_output, weather_card_state],
+            outputs=[chatbot, session_state, audio_output, weather_card_state], api_name=False,
         ).then(
             fn=lambda wc: wc if wc else "",
             inputs=[weather_card_state],
-            outputs=[weather_card],
+            outputs=[weather_card], api_name=False,
         )
 
         # Suggestion chips
@@ -1168,26 +1166,26 @@ def create_app() -> gr.Blocks:
         chip1.click(
             fn=lambda ch, ss, wc: on_text_submit("Mere tomato ke patte peele ho rahe hain, kya karna chahiye?", ch, ss, wc, None),
             inputs=_chip_inputs,
-            outputs=_chip_outputs,
-        ).then(fn=lambda wc: wc if wc else "", inputs=[weather_card_state], outputs=[weather_card])
+            outputs=_chip_outputs, api_name=False,
+        ).then(fn=lambda wc: wc if wc else "", inputs=[weather_card_state], outputs=[weather_card], api_name=False)
 
         chip2.click(
             fn=lambda ch, ss, wc: on_text_submit("Is season mein kya bona chahiye? Main Karnal, Haryana se hoon.", ch, ss, wc, None),
             inputs=_chip_inputs,
-            outputs=_chip_outputs,
-        ).then(fn=lambda wc: wc if wc else "", inputs=[weather_card_state], outputs=[weather_card])
+            outputs=_chip_outputs, api_name=False,
+        ).then(fn=lambda wc: wc if wc else "", inputs=[weather_card_state], outputs=[weather_card], api_name=False)
 
         chip3.click(
             fn=lambda ch, ss, wc: on_text_submit("Mujhe natural farming ke baare mein bataiye — jeevamrit kaise banate hain?", ch, ss, wc, None),
             inputs=_chip_inputs,
-            outputs=_chip_outputs,
-        ).then(fn=lambda wc: wc if wc else "", inputs=[weather_card_state], outputs=[weather_card])
+            outputs=_chip_outputs, api_name=False,
+        ).then(fn=lambda wc: wc if wc else "", inputs=[weather_card_state], outputs=[weather_card], api_name=False)
 
         chip4.click(
             fn=lambda ch, ss, wc: on_text_submit("PM-KISAN yojana ke baare mein bataiye — kaise apply karein?", ch, ss, wc, None),
             inputs=_chip_inputs,
-            outputs=_chip_outputs,
-        ).then(fn=lambda wc: wc if wc else "", inputs=[weather_card_state], outputs=[weather_card])
+            outputs=_chip_outputs, api_name=False,
+        ).then(fn=lambda wc: wc if wc else "", inputs=[weather_card_state], outputs=[weather_card], api_name=False)
 
     return app
 
