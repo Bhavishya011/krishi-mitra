@@ -368,7 +368,7 @@ body,
 #explore-container {
     max-width: 800px !important;
     margin: 0 auto !important;
-    min-height: 100vh !important;
+    min-height: 85vh !important;
     padding: 24px 16px !important;
 }
 
@@ -438,7 +438,9 @@ body,
    ══════════════════════════════════════════════════════════════ */
 
 #app-container {
-    min-height: 100vh;
+    height: 85vh;
+    min-height: 600px;
+    max-height: 900px;
     background: var(--km-bg-primary);
     display: flex !important;
     flex-direction: column !important;
