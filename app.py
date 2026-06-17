@@ -951,7 +951,7 @@ def create_app() -> gr.Blocks:
                 elem_id="chatbot",
                 height=480,
                 show_label=False,
-                buttons=["copy"],
+                show_copy_button=True,
                 layout="bubble",
                 avatar_images=(None, AVATAR_URL),
             )
