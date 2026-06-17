@@ -71,7 +71,7 @@ def _build_hero_html() -> str:
 
 # ── Session State Helpers ────────────────────────────────────────────
 
-def _new_session_state() -> dict:
+def _new_session_state():
     """Create a fresh session state."""
     return {
         "conversation_history": [],
@@ -92,7 +92,7 @@ def _process_message(
     chat_history,
     session_state,
     weather_card_md: str,
-) -> tuple:
+) :
     """
     Process a user message through the full pipeline:
     text → LLM → response → TTS → updated state.
