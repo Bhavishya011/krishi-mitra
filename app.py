@@ -26,7 +26,7 @@ from src.weather_service import (
 CSS_PATH = PROJECT_ROOT / "assets" / "style.css"
 VIDEO_URL = (
     "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/"
-    "hf_20260602_150901_c45b90ec-18d7-42ff-90e2-b95d7109e330.mp4"
+    "hf_20260403_050628_c4e32401-fab4-4a27-b7a8-6e9291cd5959.mp4"
 )
 AVATAR_URL = "https://ui-avatars.com/api/?name=KM&background=16a34a&color=fff&size=128&bold=true&font-size=0.45"
 
