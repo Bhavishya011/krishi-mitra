@@ -1,0 +1,159 @@
+TOPIC: Sarkar Ki Yojanayen — Government Schemes for Farmers
+SOURCE: PIB India, PM-KISAN Portal, PKVY Official Guidelines, data.gov.in
+LAST UPDATED: June 2026 (based on latest available data)
+
+---
+
+SCHEME 1: PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)
+Full Name: Pradhan Mantri Kisan Samman Nidhi Yojana
+Launch: February 2019
+Ministry: Ministry of Agriculture & Farmers Welfare
+
+KYA MILTA HAI (Benefits):
+- ₹6,000 per saal (per year) — seedha bank account mein
+- Teen installments mein diya jaata hai: ₹2,000 har 4 mahine mein
+- Installment periods: April-July | August-November | December-March
+- Yeh loan nahi hai — wapas nahi karna
+
+ELIGIBILITY (Kaun le sakta hai):
+✓ Jo bhi kisan apne naam par kheti ki zameen rakhta ho (cultivable land in their name)
+✓ Bhartiya naagrik (Indian citizen)
+✓ Land records mein naam ho
+✓ Aadhaar linked bank account ho
+
+INHE NAHI MILEGA (Exclusions — inhe yojana ka laabh nahi milega):
+✗ Income tax dene wale
+✗ Government employees (central ya state)
+✗ Doctor, CA, lawyer jaise professionals
+✗ Institutional land holders
+✗ Monthly pension ₹10,000+ wale retired government employees
+
+HOW TO APPLY / CHECK STATUS:
+- PM-KISAN portal: pmkisan.gov.in
+- "Farmer's Corner" section mein jaao
+- e-KYC zaroori hai — apne naazdiki CSC (Common Service Centre) par bhi kar sakte hain
+- Apna Aadhaar bank account se link karo
+- 19th installment February 2025 mein release hui — 10 crore+ kisanon ko faayda mila
+- 21st installment November 2025 mein — 9 crore kisanon ko ₹18,000 crore diye gaye
+
+HINGLISH SCRIPT (Kisan ko aise batao):
+"PM-KISAN mein register karo toh ₹6,000 saal mein teen baar ₹2,000-2,000 karke aapke bank account mein seedha aayenge. Iske liye sirf zameen apne naam par honi chahiye, Aadhaar bank se linked hona chahiye, aur e-KYC complete honi chahiye. pmkisan.gov.in par check karo ya apne CSC centre par jao."
+
+---
+
+SCHEME 2: PKVY — Paramparagat Krishi Vikas Yojana (Organic Farming Scheme)
+Full Name: Paramparagat Krishi Vikas Yojana
+Launch: 2015
+Under: National Mission for Sustainable Agriculture (NMSA) / PM-RKVY
+
+YEH YOJANA KHAAS KYUN HAI? (Why this matters for natural farming):
+PKVY specifically un kisanon ke liye hai jo chemical farming chodkar organic/natural farming mein aana chahte hain. Krishi Mitra ke users ke liye yeh SABSE RELEVANT scheme hai.
+
+KYA MILTA HAI (Benefits — ₹31,500 per hectare over 3 years):
+- ₹15,000/hectare — seedha DBT se organic inputs kharidne ke liye
+- ₹9,000/hectare — training aur capacity building
+- ₹4,500/hectare — marketing, packaging, branding
+- ₹3,000/hectare — PGS certification aur residue testing
+
+TOTAL: ₹31,500 per hectare (3 saalon mein)
+
+HOW IT WORKS (Cluster-based approach):
+- Akele apply nahi kar sakte — group mein karna hota hai
+- 50 acre ka ek cluster banana hota hai (neighboring farmers milke)
+- Regional Council ke paas apply karo
+- Annual Action Plan Ministry ko submit hota hai
+- Fund release hone ke baad DBT se aata hai
+
+CERTIFICATION:
+- PGS-India (Participatory Guarantee System) — affordable domestic certification
+- NPOP (National Programme for Organic Production) — international standard
+- Jaivik Kheti Portal par market access milta hai (jaivikkheti.gov.in)
+
+PROGRESS (As of early 2025):
+- 25.30 lakh+ farmers already registered
+- 14.99 lakh hectares organic farming under this scheme
+- 52,289 clusters formed across India
+
+ELIGIBILITY:
+- Any Indian farmer who wants to switch to organic farming
+- Land aapke naam par honi chahiye
+- Cluster mein join karo (50 acres minimum in a cluster)
+- Chemical farming chodne ka commitment
+
+HINGLISH SCRIPT:
+"Agar aap organic farming mein switch karna chahte hain, toh PKVY scheme check karein. Isme 3 saalon mein ₹31,500 per hectare milte hain — ₹15,000 seedha organic inputs ke liye, plus training aur certification ka kharcha bhi cover hota hai. Aapko apne gaon ke doosre kisanon ke saath ek cluster banana hoga. Apne naazdiki KVK ya block agriculture office mein pata karo."
+
+---
+
+SCHEME 3: Soil Health Card Scheme (Mitti Swasthya Patra Yojana)
+Launch: 2015
+Why important: Natural farming mein mitti ki health jaanna bahut zaroori hai
+
+KYA MILTA HAI:
+- FREE mitti ki jaanch (soil testing) — koi paise nahi
+- Card mein bataya jaata hai:
+  - Mitti mein kaunse nutrients hain / kaunse nahi hain
+  - pH level kya hai
+  - Organic carbon kitna hai
+  - Recommended fertilizer (including organic ones)
+
+HOW TO GET:
+- Apne Block Agriculture Office ya KVK mein mitti ka sample leke jao
+- Ya soil.dac.gov.in par check karo
+
+HINGLISH SCRIPT:
+"Organic farming shuru karne se pehle ek baar Soil Health Card banwao. Yeh bilkul free hai. Aapko pata chalega ki aapki mitti mein kya kami hai aur kya dalna padega. Block agriculture office mein jao ya soil.dac.gov.in check karo."
+
+---
+
+SCHEME 4: Pradhan Mantri Fasal Bima Yojana (PMFBY) — Crop Insurance
+Why relevant: Natural farming transition mein risky hota hai — insurance important hai
+
+KYA MILTA HAI:
+- Fasal kharab hone par insurance claim
+- Premium bahut kam hai (Rabi crops: 1.5%, Kharif: 2%)
+- Baki premium government bharta hai
+
+HOW TO APPLY:
+- Apne bank ya CSC centre par apply karo
+- Har season mein registration hoti hai
+- pmfby.gov.in
+
+---
+
+SCHEME 5: Kisan Credit Card (KCC)
+Why relevant: Organic farming mein initial investment ke liye
+
+KYA MILTA HAI:
+- Short-term agricultural loan — 3 lakh tak
+- Interest: 4% effective (government subsidy se)
+- Seed, fertilizer, pesticide kharidne ke liye
+
+APPLY: Apne naazdiki bank (SBI, Bank of Baroda, cooperative bank) mein
+
+---
+
+HARYANA-SPECIFIC NOTES:
+- Haryana mein Yellow Rust (Stripe Rust) alert ICAR ne historically diya hai — gehuun kisanon ke liye PKVY aur soil health cards zyada relevant hain
+- Haryana Agriculture Department (agriharyana.gov.in) par state-specific schemes check karo
+- Haryana mein Rice (Basmati) aur Wheat main crops hain — dono ke liye PKVY applicable hai
+
+---
+
+QUICK REFERENCE TABLE (Jaroor yaad rakho):
+
+| Yojana | Amount | Kiske liye | Apply kahan |
+|--------|--------|------------|-------------|
+| PM-KISAN | ₹6,000/saal | All landholding farmers | pmkisan.gov.in |
+| PKVY | ₹31,500/hectare (3 saal) | Organic farming switchers | Block Agriculture Office / KVK |
+| Soil Health Card | FREE | All farmers | Block Agriculture Office |
+| PMFBY | Varies | All farmers (crop insurance) | pmfby.gov.in / Bank |
+| Kisan Credit Card | 3 lakh loan @ 4% | All farmers | Nearby Bank |
+
+---
+
+JAIVIK KHETI PORTAL:
+URL: jaivikkheti.gov.in
+Kya hai: PKVY ke organic farmers ke liye online marketplace
+Buyers aur sellers directly connect kar sakte hain
+6.23 lakh farmers + 8,676 buyers registered (as of Dec 2024)

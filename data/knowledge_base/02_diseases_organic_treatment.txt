@@ -1,0 +1,257 @@
+TOPIC: Fasal Bimariyan — Disease Identification & Organic Treatment
+SOURCE: ICAR Research, Cornell University Organic Farming Extension, Agrifarming India
+LANGUAGE: Hinglish — use symptoms in everyday farmer language
+
+---
+
+DISEASE 1: TAMATAR MEIN EARLY BLIGHT (Aageti Jhulsa Rog)
+Scientific Name: Alternaria solani
+
+PEHCHAAN (Symptoms — kaise pehchanein):
+- Patto par chhote, gehere bhoore/kaale daag (dark brown/black spots on leaves)
+- Daagon ke gird peeli ring hoti hai (yellow halo around spots) — "target board" jaisa pattern
+- Daag dheere dheere bade hote hain aur patti jhaad jaati hai
+- Neeche ki pattiyaan pehle prabhavit hoti hain (lower leaves first)
+- Zyada garm aur nami mausam mein tezi se failta hai
+
+Kab hota hai: Baarish ke baad, zyada nami mein (high humidity), ya jab temperature 24-30°C ho
+
+URGENCY LEVEL: HIGH — 2-3 din mein ilaaj shuru karo, warna poora ped prabhavit ho sakta hai
+
+ORGANIC ILAAJ (Organic Treatment):
+
+1. NEEM OIL SPRAY (Sabse effective)
+   Tarika: 
+   - 4 chamach (4 tablespoon) pure neem oil
+   - 1 chamach (1 tablespoon) liquid soap (emulsifier ke liye)
+   - 1 litre paani
+   Mix karo aur shyam ko (evening) spray karo — seedha patto par, neeche ki taraf bhi
+   Kitni baar: Har 7-10 din mein, jab tak symptoms dikhen
+   
+2. BAKING SODA SPRAY
+   Tarika:
+   - 1 chamach (1 tsp) baking soda
+   - 1 litre gaaram paani
+   - 2-3 boond liquid soap
+   Mix karke spray karo
+   Kaam: Patto ki surface ka pH badha deta hai, fungus nahi pal sakta
+   
+3. NEEM PATTI KADHA (Neem Leaf Extract)
+   Tarika:
+   - 5 kg fresh neem patte
+   - 20 litre paani mein boil karo (2 ghante)
+   - Thanda karke chhan lo
+   - 10 guna paani mila kar dilute karo
+   - Spray karo
+
+4. JEEVAMRIT SPRAY
+   - 10% Jeevamrit + 90% paani ka ghol
+   - Weekly spray karo — plant ki immunity badhata hai
+
+BACHAO KE UPAY (Prevention):
+- Fasal chakkar (Crop rotation) apnao — tomato ek hi jagah baar baar mat lagao
+- Patto ke beech hawa aane do (proper spacing)
+- Mulching karo — mitti ke chhinte patto par na padein
+- Rog wale patte turant todo aur jalao — khet mein mat chodho
+
+---
+
+DISEASE 2: TAMATAR MEIN LATE BLIGHT (Picheti Jhulsa Rog)
+Scientific Name: Phytophthora infestans
+
+PEHCHAAN (Symptoms):
+- Patto par bade, gehre haare/bhoore daag — jaise paani jala ho (water-soaked lesions)
+- Patte ka neeche wala hissa — safed/grey roonh jaisi growth (white fluffy growth)
+- Bahut tezi se failta hai — ek hafte mein poori fasal barbad ho sakti hai
+- Tane par bhi bhoore/kaale daag
+
+Kab hota hai: Thandi raat + theek-theek nami + din mein moderate temperature
+
+URGENCY LEVEL: VERY HIGH — aaj hi ilaaj shuru karo
+
+ORGANIC ILAAJ:
+1. Neem Oil (same as early blight — 4 tbsp per litre)
+2. Copper-based spray (Copper Oxychloride — organic farming mein allowed)
+   - 3 gram per litre paani
+   - Har 7 din mein spray
+3. Rog wale poude turant nikalo aur ek alag jagah dafnao/jalao
+
+---
+
+DISEASE 3: GEHUN MEIN PEELA JANG (Yellow/Stripe Rust)
+Scientific Name: Puccinia striiformis
+Haryana aur Punjab mein bahut common hai
+
+PEHCHAAN (Symptoms):
+- Gehuun ki pattyon par peeli dhariyan (yellow stripes running parallel to leaf veins)
+- Thandi subah mein peela powder/dust dikhai deta hai
+- Zyada thandi mausam mein aur baarish ke baad hota hai
+- Patte dheere dheere sukh jaate hain
+
+Kab hota hai: Rabi season mein, jab temperature 10-15°C ho aur nami zyada ho
+
+URGENCY LEVEL: HIGH — 5-7 din mein phailta hai, jaldi karo
+
+ORGANIC ILAAJ:
+1. CHHAACHH SPRAY (Buttermilk Spray) — Research-backed, Haryana ke liye khaas
+   Tarika:
+   - 1 part chhaachh (buttermilk/whey)
+   - 9 part paani
+   - Weekly spray karo
+   
+2. NEEM KA ART (Neem Cake Application)
+   - Neem cake 200 kg/hectare — basal application (bijaai ke samay)
+   - Soil-borne pathogen control karta hai
+   
+3. TRICHODERMA VIRIDE (Bio-fungicide)
+   - 4g/kg seed treatment
+   - Ya 2.5 kg/hectare soil drench
+   - ICAR ne ise organic farming ke liye recommend kiya hai
+
+4. AZOTOBACTOR + PSB SEED TREATMENT
+   - 500g each per 100 kg seed
+   - Mitti ki upjaau shakti badhata hai
+
+BACHAO:
+- Resistant variety chuno (disease-resistant wheat varieties — ask your local KVK)
+- Fasal chakkar karo — gehuun ke baad dhan/paddy mat lagao (switch karo)
+- Khet mein hawa ka circulation achha rakho
+
+---
+
+DISEASE 4: SARSON MEIN MAHU (Mustard Aphid Attack)
+Scientific Name: Lipaphis erysimi
+Haryana, Rajasthan, UP ke mustard (sarson) crop mein very common
+
+PEHCHAAN (Symptoms):
+- Tiny chhote chhote peele/haare keede poudhe ke naye shoots aur phoolon par
+- Terminal shoot (agrooni naali) mein cluster bana lete hain
+- Patte curled ho jaate hain, peele pad jaate hain
+- Honeydew se chidchidahat hoti hai — black sooty mould aata hai
+
+Kab hota hai: January-February mein, jab temperature 15-20°C ho aur thodi nami ho
+
+URGENCY LEVEL: MODERATE to HIGH — 50 mahu per shoot ke baad urgent action lo
+
+ORGANIC ILAAJ:
+1. NEEM OIL SPRAY (Most effective organic option)
+   - 5-10 ml pure neem oil per litre paani
+   - Seedha shoot aur patti ke neeche spray karo (direct contact zaroori hai)
+   - 3-4 din mein ek baar jab tak kide na haate
+   - NOTE: Shyam ko spray karo — madhumakkhi (bees) save karne ke liye
+
+2. PAU NEEM EXTRACT (Ghar par banao):
+   - 5 kg fresh neem patte
+   - 10 litre paani mein piskar nikalo
+   - Seedha spray karo — 10 litre per hectare
+   - Research mein 40-50% aphid reduction dikhai diya
+
+3. SABUN PAANI SPRAY (Quick fix)
+   - 5 ml liquid soap per litre paani
+   - Seedha keedo par spray — contact pe maarte hain
+   - Baar baar karna padega (2-3 din mein)
+
+4. COMPANION PLANTING (Permanent fix)
+   - Sarson ke saath lasan (garlic) ya pyaaz lagao — natural repellent
+   - Dhaniya (coriander) lagao — beneficial insects attract karta hai
+
+BACHAO:
+- Ladybug (ladybird beetle) aur lacewings ko encourage karo — ye aphids khaate hain
+- Neem cake soil mein dalo — systemic resistance badhti hai
+- Early sowing (October mein) karo — aphid peak season miss ho jaata hai
+
+---
+
+DISEASE 5: DHAN/PADDY MEIN BLAST (Rice Blast)
+Scientific Name: Pyricularia oryzae / Magnaporthe oryzae
+Haryana aur UP mein Basmati paddy pe common
+
+PEHCHAAN (Symptoms):
+
+LEAF BLAST (Patti par):
+- Patto par diamond-shaped ya eye-shaped grey/white daag
+- Daag ke kiran brown hoti hain
+- Severely infected patte sukh jaate hain
+
+NECK BLAST (Baal par — zyada dangerous):
+- Dhan ki baal ka neeche wala hissa (neck) kala ho jaata hai
+- Baal toot jaati hai ya daana nahi banta
+- Zyada yield loss hota hai
+
+Kab hota hai: High humidity (>90%), temperature 20-28°C, raat mein thandi, din mein garm
+
+URGENCY LEVEL: VERY HIGH (Neck blast mein 90% tak nuksaan ho sakta hai)
+
+ORGANIC ILAAJ:
+1. TRICHODERMA + PSEUDOMONAS SEED TREATMENT
+   - 5g Trichoderma viride + 5g Pseudomonas fluorescens per kg beej
+   - Beejamrit ke saath mix kar sakte ho
+   - Transplanting se pehle seedling roots ko 30 minute bhigo do
+
+2. PSEUDOMONAS FOLIAR SPRAY
+   - 4g Pseudomonas fluorescens per litre paani
+   - Transplanting ke 20-25 din baad spray karo
+   - Fungal infection ko rokta hai
+
+3. NEEM OIL + NEEM PATTI SPRAY
+   - Neem Azal (neem-based product) ya ghar ka neem oil spray
+   - 6% concentration effective hai blast par
+   - Tillering aur panicle emergence stage par spray karo
+
+4. JEEVAMRIT SOIL DRENCH
+   - Soil mein jeevamrit dalo — beneficial microbes compete karte hain pathogen se
+
+5. NURSERY MANAGEMENT
+   - Seedling tray ya nursery mein 0.5 kg Trichoderma + 0.5 kg Pseudomonas per 1000 sq meter dalo
+   - Seedling ko healthy rakhna sabse bada bachao hai
+
+BACHAO:
+- Disease-resistant Basmati variety chuno
+- N fertilizer teen hisson mein do — ek baar mein zyada nahi
+- Paani ka level manage karo — continuously flooded mat rakho (alternate wet-dry karo)
+- Infected plants nikalo aur bunds se weeds hataao
+
+---
+
+DISEASE 6: TAMATAR/SABZI MEIN POWDERY MILDEW (Safledi Rog / Dhooloo Rog)
+Scientific Name: Various fungal species
+
+PEHCHAAN (Symptoms):
+- Patto par safed chalky/powdery coating
+- Seedha dhoop mein zyada dikhta hai
+- Patte peele pad jaate hain, sukh jaate hain
+- Typically dry season mein zyada hota hai
+
+ORGANIC ILAAJ:
+1. BAKING SODA SPRAY (Sabse aasaan)
+   - 1 tsp baking soda + 1 tsp liquid soap + 1 litre paani
+   - Weekly spray karo
+
+2. CHHAACHH/DAHI KA PAANI
+   - 1 part chhaachh + 9 part paani
+   - Effective natural antifungal
+
+3. NEEM OIL SPRAY
+   - 2-3 tbsp per litre
+   - Good for prevention and early infection
+
+---
+
+GENERAL ORGANIC PEST CONTROL PRINCIPLES (Hamesha yaad rakho):
+
+DO:
+✓ Shyam ko spray karo (evening) — madhumakkhi safe rahein
+✓ Patto ke neeche bhi spray karo — zyada tar keede neeche rehte hain
+✓ Repeat treatment karo — ek baar mein permanent fix nahi hota
+✓ Rog wale patte turant nikalo aur jalao/dafnao
+✓ Fasal chakkar (crop rotation) apnao
+
+DON'T:
+✗ Chemical pesticide bilkul nahi — hum natural farming kar rahe hain
+✗ Ek hi spray se poora result expect mat karo
+✗ Tez dhoop mein spray mat karo — patte jal jaenge
+✗ Zyada concentration mat banao — paudha stress mein aa jaata hai
+
+GUARDRAIL INSTRUCTION FOR AI:
+Agar koi farmer chemical pesticide maange (jaise Dimethoate, Carbendazim, Chlorpyrifos), toh yeh bolna hai:
+"Bhai, hum yahan natural/organic farming ki baat kar rahe hain. Chemical pesticide ki jagah [relevant organic alternative] try karo — yeh utna hi effective hai aur aapki mitti aur sehat ke liye bhi acha hai. Agar bimari bahut severe hai toh apne naazdiki KVK (Krishi Vigyan Kendra) se ek baar milein."
